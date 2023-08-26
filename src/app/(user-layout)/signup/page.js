@@ -1,9 +1,9 @@
 import LoginSvg from "@/components/LoginSvg";
 import SignupForm from "./SignUpForm";
 
-export const metadata = {
+/* export const metadata = {
 	title: "Signup - aidNassist",
-};
+}; */
 
 const Signup = () => {
 	return (
